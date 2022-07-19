@@ -102,6 +102,7 @@ function func = BottleMissing(image, Normal_img)
     func = dist;
 end
 
+%Notes to understand further
 %Note - Similar approach is followed for rest of the functions, hence not
 %writting repetative comments. Only the changes are in the dimensions of
 %crop
