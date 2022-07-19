@@ -1,7 +1,7 @@
 % Embeded Image Processing - Assignment 1
 % Name - Amogh M. Agnihotri
 % Student ID - 21236437
-% Course - MSc Artificial Intelligence
+% Course - Master of Science - Artificial Intelligence
 
 
 %To clean everthing before the fresh run
